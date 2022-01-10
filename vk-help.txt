@@ -1,0 +1,7 @@
+db setup -->  common->config->main-local.php
+
+note:   after setup of db, run the command -> "php yii migrate"
+
+
+Database:
+    vivek:
